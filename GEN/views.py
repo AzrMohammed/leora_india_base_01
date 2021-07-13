@@ -1002,6 +1002,7 @@ def proceedPush(brand_id, app_user_type, device_id, title, message, datapayload)
         # api_key = brand_app_details.api_key_customer
         api_key = brand_app_details.api_key_business
 
+# teddd
     f = FCMDevice()
 
     f.name = "Test"
